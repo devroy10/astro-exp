@@ -68,7 +68,7 @@ Visit `http://localhost:4321` to see the demo interface.
 1. Add environment variables in Vercel dashboard
 1. Deploy automatically on push
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/polarsource/examples/tree/main/with-astro&env=POLAR_OAT,POLAR_WEBHOOK_SECRET,POLAR_SUCCESS_URL,&envDescription=Configure%20your%20Polar%20API%20credentials%20and%20mode.&envLink=https://docs.polar.sh/integrate/webhooks/endpoints#setup-webhooks)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/devroy10/astro-exp/tree/main&env=POLAR_OAT,POLAR_WEBHOOK_SECRET,POLAR_SUCCESS_URL,&envDescription=Configure%20your%20Polar%20API%20credentials%20and%20mode.&envLink=https://docs.polar.sh/integrate/webhooks/endpoints#setup-webhooks)
 
 ### Other Platforms
 
